@@ -23,7 +23,7 @@ SRCS   =                    \
     drop.c                  \
     enforce.c               \
     freeze.c                \
-    gender.c   				\
+    gender.c                \
     ghost.c                 \
     group.c                 \
     help.c                  \
@@ -43,7 +43,7 @@ SRCS   =                    \
     main.c                  \
     mark.c                  \
     multimark.c             \
-    pronouns.c				\
+    pronouns.c              \
     pwquality.c             \
     register.c              \
     regnolimit.c            \
